@@ -1,0 +1,13 @@
+tipo:REGULAR:13000:100.0
+tipo:DIESEL:13500:200.0
+tipo:E10:12000:150.0
+tipo:PREMIUM:11500:110.0
+surtidor:Julian Gonzalez:REGULAR:0.0:DIESEL:0.0:E10:0.0:PREMIUM:0.0
+surtidor:Alejandro Pinilla:REGULAR:0.0:DIESEL:0.0:E10:0.0:PREMIUM:0.0
+surtidor:Alejandro Pinilla:REGULAR:0.0:DIESEL:0.0:E10:0.0:PREMIUM:0.0
+surtidor:Mateo Duran:REGULAR:0.0:DIESEL:0.0:E10:0.0:PREMIUM:0.0
+empleado:Mateo Duran:0
+empleado:Felipe Gil:0
+empleado:Alejandro Pinilla:0
+empleado:Daniel Quimbay:0
+empleado:Julian Gonzalez:0
